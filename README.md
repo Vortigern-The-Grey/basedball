@@ -1,2 +1,2 @@
-# basedball-site
-news page for an opinionated online baseball league
+# basedball
+### An opinionated online baseball league
