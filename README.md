@@ -5,4 +5,4 @@
 Basedball is something else, an internet baseball league inspired by [Blaseball](https://blaseball.com) but way less cool. 
 
 ## Game Archives
-You can find text file archives of all games at [https://github.com/Vortigern-The-Grey/basedball/archives](https://github.com/Vortigern-The-Grey/basedball/archives), or at the [Archives](/archives/) page. 
+You can find text file archives of all games at [https://github.com/Vortigern-The-Grey/basedball/archives](https://github.com/Vortigern-The-Grey/basedball/archives), or at the [Archives](/archives.md) page. 
