@@ -1,0 +1,76 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Welcome to the BasedBall Python Universal Terminal!
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enter the name of the home team: Crabs
+Home Team set as Crabs.
+Enter the name of the away team: Giant
+Away Team set as Giant.
+Enter the name of the stadium: The Crabitat
+Enter the number of innings you would like to play: 1
+Enter "yes" for maximum offense or "no" for more realistic scoring: yes
+
+Today the Crabs are hosting the Giant at The Crabitat.
+As usual, the Giant will be batting at the top of the inning.
+Just got word we'll be going for 1 innings today.
+Experts expect this to be a fierce game.
+Let's play ball!!
+. . . . . . . . . . . . . . . . . . .
+It's the top of the 1st inning.
+The Giant are up to bat.
+The first batter enters the batter's box. Here's the pitch...
+The batter grounded out to third.
+
+There are 1 outs with the bases empty >>
+The next batter enters the batter's box. Here's the pitch...
+The batter popped out to left field.
+
+There are 2 outs with the bases empty >>
+The next batter enters the batter's box. Here's the pitch...
+The batter grounded out to second.
+
+That's the end of the side.
+The Giant scored 0 runs.
+ . . . . . . . . . . . . . . . . . . . . . . . . . .
+The score is Giant: 0
+Crabs: 0
+ . . . . . . . . . . . . . . . . . . . . . . . . . .
+It's the bottom of the 1st inning.
+The Crabs are up to bat.
+The first batter enters the batter's box. Here's the pitch...
+It's a single!
+
+There are 0 outs with a runner on 1st >>
+The next batter enters the batter's box. Here's the pitch...
+It's a double!
+
+There are 0 outs with runners on 2nd and 3rd >>
+The next batter enters the batter's box. Here's the pitch...
+The batter struck out!
+
+There are 1 outs with runners on 2nd and 3rd >>
+The next batter enters the batter's box. Here's the pitch...
+The batter struck out!
+
+There are 2 outs with runners on 2nd and 3rd >>
+The next batter enters the batter's box. Here's the pitch...
+It's a single!
+2 runs scored.
+
+That's the end of the ballgame!
+Thank you for joining us today at The Crabitat for this match between the Crabs and the Giant.
+ . . . . . . . . . . . . . . . . . . . . . . . . . .
+The final score is Giant: 0
+Crabs: 2
+ . . . . . . . . . . . . . . . . . . . . . . . . . .
+                       1   2   3   4   5   6   7   8   9   |  R   H   E
+Giant                | 0   0   0   0   0   0   0   0   0   |  0   0   0
+Crabs                | 2   0   0   0   0   0   0   0   0   |  2   3   0
+ . . . . . . . . . . . . . . . . . . . . . . . . . .
+Giant hitting: 0 HR | 0 2B | 0 3B | .000 AVG
+Crabs hitting: 0 HR | 1 2B | 0 3B | .600 AVG
+ . . . . . . . . . . . . . . . . . . . . . . . . . .
+Giant pitching: 2 strikeouts |  0 walks
+Crabs pitching: 0 strikeouts | 0 walks
+ . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Thanks for using the BasedBall Python Universal Terminal!
