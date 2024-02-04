@@ -8,6 +8,6 @@ permalink: title
 highlighter: rouge
 
 header_pages:
-  - index.md
-  - read-me.md
-  - preview.md
+  - README.md
+  - stats.md
+  - archive.md
