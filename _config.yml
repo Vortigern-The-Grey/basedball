@@ -1,5 +1,6 @@
 name: Basedball
 title: Basedball
 description: An opinionated internet baseball league, powered by <a href="http://github.com/Vortigern-The-Grey/pythonbasedball">pythonbasedball</a> 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: "tareqdandachi/jekyll-shell-theme"
 permalink: title
