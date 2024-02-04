@@ -13,9 +13,9 @@ header_pages:
   - stats.md
   - archive.md
 
-  plugins:
+plugins:
   - jekyll-remote-theme
   - jemoji
 
-  sass:
-  style: compressed
+sass:
+style: compressed
