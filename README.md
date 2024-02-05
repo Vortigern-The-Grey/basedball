@@ -8,7 +8,9 @@ Basedball is something else, a small Internet League Baseball fantasy baseball p
 The current schedule and timeframe of IBL-Based are TBD, but the structure is likely to involve multiple seasons and a sizeable number of teams.
 
 ## Teams/Statistics
+The current teams are the Baltimore Crabs, the Houston Giants, the South Dakota Sunbeams and the Chicago Firefighters. Suggestions for new teams can be submitted as issues in the repo.
  A table of the teams and their relevant statistics can be found at the [Stats](/stats.md) page.
+
 
 ## Game Archives
 You can find text file archives of all games at [https://github.com/Vortigern-The-Grey/basedball/archives](https://github.com/Vortigern-The-Grey/basedball/archives), or at the [Archives](/archives.md) page. 
