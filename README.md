@@ -13,4 +13,4 @@ The current teams are the Baltimore Crabs, the Houston Giants, the South Dakota 
 
 
 ## Game Archives
-You can find text file archives of all games at [https://github.com/Vortigern-The-Grey/basedball/archives](https://github.com/Vortigern-The-Grey/basedball/archives), or at the [Archives](/archives.md) page. 
+You can find text file archives of all games at [https://github.com/basedball-ILB/basedball/archives](https://github.com/basedball-ILB/basedball/archives), or at the [Archives](/archives.md) page. 
