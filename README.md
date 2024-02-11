@@ -4,6 +4,8 @@
 
 Basedball is something else, a small Internet League Baseball fantasy baseball project inspired by [Blaseball](https://blaseball.com) but way less cool. Also known as ILB-Based, or by the project name, based-af.
 
+I use NVChad btw.
+
 ## Schedule
 The current schedule and timeframe of IBL-Based are TBD, but the structure is likely to involve multiple seasons and a sizeable number of teams.
 
